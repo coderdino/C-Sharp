@@ -1,0 +1,6 @@
+C:\Vaibhav\Coding\C#\DataTypes\bin\Debug\DataTypes.exe.config
+C:\Vaibhav\Coding\C#\DataTypes\bin\Debug\DataTypes.exe
+C:\Vaibhav\Coding\C#\DataTypes\bin\Debug\DataTypes.pdb
+C:\Vaibhav\Coding\C#\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Coding\C#\DataTypes\obj\Debug\DataTypes.exe
+C:\Vaibhav\Coding\C#\DataTypes\obj\Debug\DataTypes.pdb

@@ -1,0 +1,14 @@
+C:\Vaibhav\Coding\C#\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+C:\Vaibhav\Coding\C#\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Vaibhav\Coding\C#\Variables\bin\Debug\Variables.exe.config
+C:\Vaibhav\Coding\C#\Variables\bin\Debug\Variables.exe
+C:\Vaibhav\Coding\C#\Variables\bin\Debug\Variables.pdb
+C:\Vaibhav\Coding\C#\Variables\obj\Debug\Variables.exe
+C:\Vaibhav\Coding\C#\Variables\obj\Debug\Variables.pdb
+Z:\C#\Variables\bin\Debug\Variables.exe.config
+Z:\C#\Variables\bin\Debug\Variables.exe
+Z:\C#\Variables\bin\Debug\Variables.pdb
+Z:\C#\Variables\obj\Debug\Variables.csprojAssemblyReference.cache
+Z:\C#\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+Z:\C#\Variables\obj\Debug\Variables.exe
+Z:\C#\Variables\obj\Debug\Variables.pdb
